@@ -1,0 +1,8 @@
+C:\programing\Algorithm\SevenSegmentDisplayAlgorithm\SevenSegmentDisplay_CS\bin\Debug\SevenSegmentDisplay_CS.exe.config
+C:\programing\Algorithm\SevenSegmentDisplayAlgorithm\SevenSegmentDisplay_CS\bin\Debug\SevenSegmentDisplay_CS.exe
+C:\programing\Algorithm\SevenSegmentDisplayAlgorithm\SevenSegmentDisplay_CS\bin\Debug\SevenSegmentDisplay_CS.pdb
+C:\programing\Algorithm\SevenSegmentDisplayAlgorithm\SevenSegmentDisplay_CS\obj\Debug\SevenSegmentDisplay_CS.csproj.AssemblyReference.cache
+C:\programing\Algorithm\SevenSegmentDisplayAlgorithm\SevenSegmentDisplay_CS\obj\Debug\SevenSegmentDisplay_CS.csproj.SuggestedBindingRedirects.cache
+C:\programing\Algorithm\SevenSegmentDisplayAlgorithm\SevenSegmentDisplay_CS\obj\Debug\SevenSegmentDisplay_CS.csproj.CoreCompileInputs.cache
+C:\programing\Algorithm\SevenSegmentDisplayAlgorithm\SevenSegmentDisplay_CS\obj\Debug\SevenSegmentDisplay_CS.exe
+C:\programing\Algorithm\SevenSegmentDisplayAlgorithm\SevenSegmentDisplay_CS\obj\Debug\SevenSegmentDisplay_CS.pdb
